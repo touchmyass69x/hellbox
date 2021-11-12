@@ -26,7 +26,7 @@ html-telegraph-poster
 # lottie
 # lyricsgenius
 nekos.py
-# opencv-python-headless
+opencv-python-headless
 # patool
 # Pillow
 # prettytable
@@ -58,7 +58,7 @@ tgcrypto
 # vcsi
 # wand
 # wget
-# wheel
+wheel
 # wikipedia
 # youtube-search
 # youtube-search-python
